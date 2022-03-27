@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71032576-09f1-e6ee-f9e1-f88c4b81dd56
 resourcetype: Document
 title: ClaveCorrecion
 uid: a3966692-dd37-faf0-993b-f1fa011f6852

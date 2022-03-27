@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71032576-09f1-e6ee-f9e1-f88c4b81dd56
 resourcetype: Document
 title: "Lila Downs, La l\xEDnea "
 uid: 2d7ea33e-0665-337f-2324-9f26d6473fb5

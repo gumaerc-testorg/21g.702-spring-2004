@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: b6628738-d3a4-8582-c2f3-5df1c21ac1b9
 resourcetype: Document
 title: "Repaso cl\xE1usulas con \u201Csi\u201D:"
 uid: 0373ef4a-09fd-f790-a649-7cccf06dfa56

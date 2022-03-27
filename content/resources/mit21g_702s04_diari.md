@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71032576-09f1-e6ee-f9e1-f88c4b81dd56
 resourcetype: Document
 title: Diario de viaje
 uid: f3aee108-34d2-6c5b-627c-26799b38a708

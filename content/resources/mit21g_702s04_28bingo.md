@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: b6628738-d3a4-8582-c2f3-5df1c21ac1b9
 resourcetype: Document
 title: 'Bingo: Predicciones / Futuro'
 uid: 9e9c8821-28f3-e610-4efb-c899676b8565

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71032576-09f1-e6ee-f9e1-f88c4b81dd56
 resourcetype: Document
 title: La Comunidad
 uid: c7b86e75-514f-cc5c-46c2-8f0434817425

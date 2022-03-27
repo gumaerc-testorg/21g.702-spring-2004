@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71032576-09f1-e6ee-f9e1-f88c4b81dd56
 resourcetype: Document
 title: "Espa\xF1ol II"
 uid: f07dfb9f-ce9c-ada8-00cf-2758237ed7a9

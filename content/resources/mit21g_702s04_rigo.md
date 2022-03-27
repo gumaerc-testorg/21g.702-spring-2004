@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71032576-09f1-e6ee-f9e1-f88c4b81dd56
 resourcetype: Document
 title: "Responde Rigoberta Mench\xFA"
 uid: 7b708a7e-32c9-424c-fe21-fa8713712842
