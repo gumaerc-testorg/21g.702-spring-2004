@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: External links for Spanish literature.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
