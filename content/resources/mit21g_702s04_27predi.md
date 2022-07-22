@@ -5,6 +5,7 @@ description: 'This resource contains the information regarding predicciones para
 file: /courses/21g-702-spanish-ii-spring-2004/bb45ef3feae33cdc4e479731ab056ccd_MIT21G_702S04_27predi.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Predicciones para el futuro:  Examina la siguiente lista y cambia los ve
 uid: bb45ef3f-eae3-3cdc-4e47-9731ab056ccd
 ---
 This resource contains the information regarding predicciones para el futuro: examina la siguiente lista y cambia los verbos al futuro.
-

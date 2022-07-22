@@ -6,6 +6,7 @@ file: /courses/21g-702-spanish-ii-spring-2004/2d7ea33e0665337f23249f26d6473fb5_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lila Downs, La l\xEDnea "
 uid: 2d7ea33e-0665-337f-2324-9f26d6473fb5
 ---
 This resource contains the information regarding lila downs, la línea .
-

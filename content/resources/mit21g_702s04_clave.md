@@ -5,6 +5,7 @@ file: /courses/21g-702-spanish-ii-spring-2004/a3966692dd37faf0993bf1fa011f6852_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ClaveCorrecion
 uid: a3966692-dd37-faf0-993b-f1fa011f6852
 ---
 This resource contains the information regarding clavecorrecion.
-

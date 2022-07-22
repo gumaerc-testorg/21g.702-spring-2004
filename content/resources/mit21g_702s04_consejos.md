@@ -5,6 +5,7 @@ file: /courses/21g-702-spanish-ii-spring-2004/f07dfb9fce9cada800cf2758237ed7a9_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Espa\xF1ol II"
 uid: f07dfb9f-ce9c-ada8-00cf-2758237ed7a9
 ---
 This resource contains the information regarding español II.
-

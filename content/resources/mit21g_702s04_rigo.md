@@ -6,6 +6,7 @@ file: /courses/21g-702-spanish-ii-spring-2004/7b708a7e32c9424cfe21fa8713712842_M
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Responde Rigoberta Mench\xFA"
 uid: 7b708a7e-32c9-424c-fe21-fa8713712842
 ---
 This resource contains the information regarding responde rigoberta menchú.
-
