@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: ''
+description: This section lists the assignments for the course
 draft: false
 learning_resource_types:
 - Assignments
@@ -14,7 +14,7 @@ VanPatten, Bill, Martha Alford Marks, and Richard V. Teschner. *Destinos: An In
 
 VanPatten, Bill, Martha Alford Marks, and Richard V. Teschner. *Destinos. Workbook / Study Guide II.* New York: McGraw Hill, 2002. (Lecciones 27-52) \*references noted as "W" under Tarea below.
 
-*For OCW online learners*: the video episodes in [Destinos: An Introduction to Spanish](http://www.learner.org/series/destinos/index.html) are available free online from Annenberg Learner.
+*For OCW online learners*: the video episodes in {{% resource_link "f67e04dc-3d35-4cf1-b889-574f58b45a8d" "Destinos: An Introduction to Spanish" %}} are available free online from Annenberg Learner.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -30,7 +30,7 @@ TAREA
 
 Introducción y presentación del curso.
 
-[*Destinos Online*](https://www.learner.org/series/destinos-an-introduction-to-spanish/)
+{{% resource_link "f67e04dc-3d35-4cf1-b889-574f58b45a8d" "*Destinos Online*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Episodios 25 y 26
@@ -59,7 +59,7 @@ W 28
 {{< tdclose >}}{{< tdopen >}}
 Predicciones para el futuro.
 {{< tdclose >}}{{< tdopen >}}
-Lee el Poema XX de Pablo Neruda: "[Puedo escribir los versos más tristes esta noche](http://www.elalmanaque.com/poesias/POEMA_%20XX.htm)." Para más información sobre este poeta chileno, visitar la [Página de Neruda](http://es.wikipedia.org/wiki/Pablo_Neruda) por la Universidad de Chile, biografía, obras y fotos.
+Lee el Poema XX de Pablo Neruda: "{{% resource_link "edd9b1d9-6d78-4726-a9db-beb167d143b6" "Puedo escribir los versos más tristes esta noche" %}}." Para más información sobre este poeta chileno, visitar la {{% resource_link "07a91286-07d0-482a-8b61-b03b04ed986c" "Página de Neruda" %}} por la Universidad de Chile, biografía, obras y fotos.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -88,7 +88,7 @@ Episodios 30 y 31 (grupo A: 30/grupo B: 31)
 
 Canción
 
-La línea, Lila Downs ({{% resource_link 2d7ea33e-0665-337f-2324-9f26d6473fb5 "PDF" %}})
+La línea, Lila Downs ({{% resource_link "2d7ea33e-0665-337f-2324-9f26d6473fb5" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 W 30
@@ -100,7 +100,7 @@ Gramática 30
 
 W 31
 
-Composición #1 ({{% resource_link f3aee108-34d2-6c5b-627c-26799b38a708 "PDF" %}}). Para revisar la primera versión de cada composición usa esta clave para la correción de las composiciones ({{% resource_link a3966692-dd37-faf0-993b-f1fa011f6852 "PDF" %}})
+Composición #1 ({{% resource_link "f3aee108-34d2-6c5b-627c-26799b38a708" "PDF" %}}). Para revisar la primera versión de cada composición usa esta clave para la correción de las composiciones ({{% resource_link "a3966692-dd37-faf0-993b-f1fa011f6852" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 4**
@@ -118,9 +118,9 @@ Examen 1
 
 Episodios 32 y 33 (grupo A: 32/grupo B: 33)
 
-Grupo A: Nota cultural: [Aztecas](http://clio.rediris.es/clionet/fichas/otras_aztecas.htm) (prepararse para informar a la clase sobre los aztecas)
+Grupo A: Nota cultural: {{% resource_link "a18fa950-b2dc-40fd-ab41-366c057bf536" "Aztecas" %}} (prepararse para informar a la clase sobre los aztecas)
 
-Grupo B: Nota cultural: [Mayas](http://clio.rediris.es/clionet/fichas/otras_mayas.htm) (estar preparado/a para informar a la clase sobre los mayas)
+Grupo B: Nota cultural: {{% resource_link "7b7c6bfc-a75d-4dca-87b8-50efb49ca33b" "Mayas" %}} (estar preparado/a para informar a la clase sobre los mayas)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -133,7 +133,7 @@ W 32 / Anuncio publicitario: mandatos
 {{< tdclose >}}{{< tdopen >}}
 Gramática 32 y cuento
 {{< tdclose >}}{{< tdopen >}}
-Cuento: [Augusto Monterroso](http://cvc.cervantes.es/actcult/monterroso/)
+Cuento: {{% resource_link "c8e6028e-efb0-4893-8187-520544c44e6b" "Augusto Monterroso" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 5**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -141,7 +141,7 @@ Cuento: [Augusto Monterroso](http://cvc.cervantes.es/actcult/monterroso/)
 {{< tdclose >}}{{< tdopen >}}
 Discutir cuento. Subjuntivo Adjetivales / Duda
 {{< tdclose >}}{{< tdopen >}}
-W 33. Entrevista a Rigoberta Menchú ({{% resource_link 7b708a7e-32c9-424c-fe21-fa8713712842 "PDF" %}})
+W 33. Entrevista a Rigoberta Menchú ({{% resource_link "7b708a7e-32c9-424c-fe21-fa8713712842" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -178,10 +178,10 @@ W 36
 
 Repaso
 
-Poema "Hombre pequeñito" ({{% resource_link 9b95533b-b128-160c-cb75-4b6d679ffbcf "PDF" %}})
+Poema "Hombre pequeñito" ({{% resource_link "9b95533b-b128-160c-cb75-4b6d679ffbcf" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
-Composición 2 ({{% resource_link f07dfb9f-ce9c-ada8-00cf-2758237ed7a9 "PDF" %}})
+Composición 2 ({{% resource_link "f07dfb9f-ce9c-ada8-00cf-2758237ed7a9" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
@@ -219,7 +219,7 @@ W 38
 {{< tdclose >}}{{< tdopen >}}
 Gramática 38
 {{< tdclose >}}{{< tdopen >}}
-Película: "Como agua para chocolate" ({{% resource_link f69a3551-5d56-21bf-244b-19bfbdadc2f5 "PDF" %}})
+Película: "Como agua para chocolate" ({{% resource_link "f69a3551-5d56-21bf-244b-19bfbdadc2f5" "PDF" %}})
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 8**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -279,7 +279,7 @@ W 42
 {{< tdclose >}}{{< tdopen >}}
 Gramática 42
 {{< tdclose >}}{{< tdopen >}}
-"[Instantes](https://www.tomzap.com/instante.html)," poema apócrifo atribuido a [Jorge Luis Borges](http://www.britannica.com/EBchecked/topic/74100/Jorge-Luis-Borges)
+"{{% resource_link "40f1f95b-9bb4-4fc8-b4b1-f9fc45370a4d" "Instantes" %}}," poema apócrifo atribuido a {{% resource_link "4bc8d48e-0ee5-49b1-b419-8fefafe3bf5d" "Jorge Luis Borges" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 37
 {{< tdclose >}}{{< tdopen >}}
@@ -320,7 +320,7 @@ Gramática 44
 
 Episodio 45
 
-Composición #3 ({{% resource_link 26204a4c-2d5b-b48c-d7b5-9abb40680d12 "PDF" %}})
+Composición #3 ({{% resource_link "26204a4c-2d5b-b48c-d7b5-9abb40680d12" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 12**
@@ -350,7 +350,7 @@ Gramática 46
 
 Episodio 47
 
-Lectura:"[Historia de los dos que soñaron](http://www.secundariafavaloro.com.ar/pdf/lengua/1ro_Historia-Borges.pdf)," de Jorge Luis Borges. El cuento fantástico hispanoamericano ({{% resource_link 6d48791f-3eb1-28ba-0ed2-df80ea03d6cd "PDF" %}})
+Lectura:"{{% resource_link "60ac6979-5343-47c4-b10a-e9bb9d414f61" "Historia de los dos que soñaron" %}}," de Jorge Luis Borges. El cuento fantástico hispanoamericano ({{% resource_link "6d48791f-3eb1-28ba-0ed2-df80ea03d6cd" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 13**
@@ -383,7 +383,7 @@ Examen 4 (Lecciones 42-52)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 51
 {{< tdclose >}}{{< tdopen >}}
-Preparar Mini-dramas / Película: *La* *comunidad* ({{% resource_link c7b86e75-514f-cc5c-46c2-8f0434817425 "PDF" %}})
+Preparar Mini-dramas / Película: *La* *comunidad* ({{% resource_link "c7b86e75-514f-cc5c-46c2-8f0434817425" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
