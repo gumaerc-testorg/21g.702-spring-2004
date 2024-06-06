@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding bingo: predicciones
   / futuro.'
 file: /courses/21g-702-spanish-ii-spring-2004/9e9c882128f3e6104efbc899676b8565_MIT21G_702S04_28bingo.pdf
+file_size: 580941
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
