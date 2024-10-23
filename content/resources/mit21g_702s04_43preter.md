@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding pretrito pluscuamperfecto.
-file: /courses/21g-702-spanish-ii-spring-2004/05c4281a34cfcfaaeb64d1d8657180df_MIT21G_702S04_43preter.pdf
+file: /ol-ocw-studio-app/courses/21g-702-spanish-ii-spring-2004/05c4281a34cfcfaaeb64d1d8657180df_MIT21G_702S04_43preter.pdf
 file_size: 577242
 file_type: application/pdf
 learning_resource_types: []

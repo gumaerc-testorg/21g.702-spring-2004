@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Anuncio de Viaje.
-file: /courses/21g-702-spanish-ii-spring-2004/b9d820bd323453b39c2a2a1de1f94c2b_MIT21G_702S04_41anunc.pdf
+file: /ol-ocw-studio-app/courses/21g-702-spanish-ii-spring-2004/b9d820bd323453b39c2a2a1de1f94c2b_MIT21G_702S04_41anunc.pdf
 file_size: 146032
 file_type: application/pdf
 learning_resource_types: []
