@@ -1,25 +1,23 @@
 ---
 content_type: page
 description: External links for Spanish literature.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 1aeccfd5-ad1f-19c2-7391-5fecd6844244
 ---
+## Recoursos / Resources
 
-Recoursos / Resources
----------------------
+[MIT Global Studies and Languages](https://stuff.mit.edu/~fll/) 
 
-[LLaRC](http://llarc.mit.edu/) (Language Learning and Resource Center)
+*Destinos* [Online](https://www.learner.org/series/destinos-an-introduction-to-spanish/) (You can watch the episodes online; you just need to register and then select the episode you want to watch.)
 
-_Destinos_ [Online](https://www.learner.org/series/destinos-an-introduction-to-spanish/) (You can watch the episodes online; you just need to register and then select the episode you want to watch.)
-
-Diccionarios / Dictionaries
----------------------------
+## Diccionarios / Dictionaries
 
 [Diccionarios.com](http://www.diccionarios.com/)
 
-[Diccionario de la Real Academia Española](http://lema.rae.es/drae/
+\[Diccionario de la Real Academia Española\]([http://lema.rae.es/drae/](http://lema.rae.es/drae/)   
 )
 
 [Diccionario Informático](http://www.sitiosargentina.com.ar/categorias/internet/diccionarios.htm), inglés-español. Diccionario de términos relacionados a la informática
@@ -28,8 +26,7 @@ Diccionarios / Dictionaries
 
 [Tesauro español](http://www.lenguaje.com/herramientas/tesauro/default.htm) (sinónimos)
 
-Gramática / Grammar Tutorials and Exercises
--------------------------------------------
+## Gramática / Grammar Tutorials and Exercises
 
 [Gramática castellana](http://www.elcastellano.org/gramatic.html), las reglas del español actual en la [Página del idioma español](https://pendientedemigracion.ucm.es/info/especulo/ele/r_soca.html)
 
@@ -39,12 +36,11 @@ Gramática / Grammar Tutorials and Exercises
 
 [Tutoría de español](http://www.studyspanish.com/tutorial.htm), Spanish Grammar Tutorials
 
-Periódicos y Revistas / Newspapers and Magazines
-------------------------------------------------
+## Periódicos y Revistas / Newspapers and Magazines
 
 [Spanish Language Newspapers and Magazines](http://libguides.mit.edu/content.php?pid=146063&sid=1247903), MIT Humanities Library
 
-[Prensa Latina](http://www.prensalatina.com/), índice de periódicos en español y otros idiomas
+[Prensa Latina](https://www.prensa-latina.cu/), índice de periódicos en español y otros idiomas
 
 [Tecla](http://www.mec.es/exterior/uk/es/tecla/pruebatecla.shtml) Revista semanal para estudiantes de español con artículos cortos, listas de vocabulario y ejercicios
 
@@ -52,8 +48,7 @@ Periódicos y Revistas / Newspapers and Magazines
 
 [BBC -en español](http://news.bbc.co.uk/hi/spanish/news/)
 
-Museos / Museums
-----------------
+## Museos / Museums
 
 [Museo del Prado](http://www.museodelprado.es/en)
 
@@ -61,8 +56,7 @@ Museos / Museums
 
 [Museo Thyssen Bornemisza](http://www.museothyssen.org/en/thyssen/home)
 
-Otros Recursos Útiles / Other Useful Resources
-----------------------------------------------
+## Otros Recursos Útiles / Other Useful Resources
 
 [Latin American Network Information Center (LANIC)](http://lanic.utexas.edu/las.html)
 
