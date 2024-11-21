@@ -350,7 +350,7 @@ Gramática 46
 
 Episodio 47
 
-Lectura:"[Historia de los dos que soñaron](http://www.secundariafavaloro.com.ar/pdf/lengua/1ro_Historia-Borges.pdf)," de Jorge Luis Borges. El cuento fantástico hispanoamericano ({{% resource_link "6d48791f-3eb1-28ba-0ed2-df80ea03d6cd" "PDF" %}})
+Lectura:"[Historia de los dos que soñaron](https://lenguanorba.files.wordpress.com/2018/06/historia_borges.pdf)," de Jorge Luis Borges. El cuento fantástico hispanoamericano ({{% resource_link "6d48791f-3eb1-28ba-0ed2-df80ea03d6cd" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 13**
