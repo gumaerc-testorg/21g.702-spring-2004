@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding lila downs, la l\xED\
   nea ."
-file: /ol-ocw-studio-app/courses/21g-702-spanish-ii-spring-2004/2d7ea33e0665337f23249f26d6473fb5_MIT21G_702S04_31lalinea.pdf
+file: /courses/21g-702-spanish-ii-spring-2004/2d7ea33e0665337f23249f26d6473fb5_MIT21G_702S04_31lalinea.pdf
 file_size: 643024
 file_type: application/pdf
 learning_resource_types:
