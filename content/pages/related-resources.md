@@ -17,7 +17,7 @@ uid: 1aeccfd5-ad1f-19c2-7391-5fecd6844244
 
 [Diccionarios.com](http://www.diccionarios.com/)
 
-\[Diccionario de la Real Academia Española\]([http://lema.rae.es/drae/](http://lema.rae.es/drae/)   
+\[Diccionario de la Real Academia Española\]([http://lema.rae.es/drae/](http://lema.rae.es/drae/)     
 )
 
 [Diccionario Informático](http://www.sitiosargentina.com.ar/categorias/internet/diccionarios.htm), inglés-español. Diccionario de términos relacionados a la informática
@@ -32,7 +32,7 @@ uid: 1aeccfd5-ad1f-19c2-7391-5fecd6844244
 
 [Cuaderno de Ejercicios en la Red](http://www.trentu.ca/academic/modernlanguages/spanish/masarriba/), ejercicios de vocabulario y gramática
 
-[Ejercicios de gramática](http://mld.ursinus.edu/~jarana/Ejercicios/), página de Juan Ramón de Arana. Ejercicios de puntos gramaticales y vocabulario con revisión automática (self-check)
+[Ejercicios de gramática](https://aprenderespanol.org/gramatica-ejercicios.html), página de Juan Ramón de Arana. Ejercicios de puntos gramaticales y vocabulario con revisión automática (self-check)
 
 [Tutoría de español](http://www.studyspanish.com/tutorial.htm), Spanish Grammar Tutorials
 
@@ -42,7 +42,7 @@ uid: 1aeccfd5-ad1f-19c2-7391-5fecd6844244
 
 [Prensa Latina](https://www.prensa-latina.cu/), índice de periódicos en español y otros idiomas
 
-[Tecla](http://www.mec.es/exterior/uk/es/tecla/pruebatecla.shtml) Revista semanal para estudiantes de español con artículos cortos, listas de vocabulario y ejercicios
+[Tecla Revista](https://www.libreria.educacion.gob.es/libro/tecla-no-4-2024-revista-de-la-consejeria-de-educacion-en-el-reino-unido-e-irlanda_184944/) semanal para estudiantes de español con artículos cortos, listas de vocabulario y ejercicios
 
 [CNN en español](http://cnnenespanol.com/)
 
