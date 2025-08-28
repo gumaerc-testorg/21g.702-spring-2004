@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding imperfecto del subjuntivo.
-file: /courses/21g-702-spanish-ii-spring-2004/5cdd1575bb789559d8fef3921847a57b_MIT21G_702S04_37encsta.pdf
+file: /ol-ocw-studio-app/courses/21g-702-spanish-ii-spring-2004/5cdd1575bb789559d8fef3921847a57b_MIT21G_702S04_37encsta.pdf
 file_size: 535692
 file_type: application/pdf
 learning_resource_types: []
