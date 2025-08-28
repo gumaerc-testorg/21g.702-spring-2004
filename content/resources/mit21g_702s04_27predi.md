@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding predicciones para el
   futuro: examina la siguiente lista y cambia los verbos al futuro.'
-file: /courses/21g-702-spanish-ii-spring-2004/bb45ef3feae33cdc4e479731ab056ccd_MIT21G_702S04_27predi.pdf
+file: /ol-ocw-studio-app/courses/21g-702-spanish-ii-spring-2004/bb45ef3feae33cdc4e479731ab056ccd_MIT21G_702S04_27predi.pdf
 file_size: 545385
 file_type: application/pdf
 learning_resource_types: []

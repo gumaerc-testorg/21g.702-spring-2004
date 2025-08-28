@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains the information regarding responde rigoberta\
   \ mench\xFA."
-file: /courses/21g-702-spanish-ii-spring-2004/7b708a7e32c9424cfe21fa8713712842_MIT21G_702S04_rigo.pdf
+file: /ol-ocw-studio-app/courses/21g-702-spanish-ii-spring-2004/7b708a7e32c9424cfe21fa8713712842_MIT21G_702S04_rigo.pdf
 file_size: 171574
 file_type: application/pdf
 learning_resource_types:
