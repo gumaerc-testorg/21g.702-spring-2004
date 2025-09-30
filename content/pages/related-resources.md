@@ -9,61 +9,61 @@ uid: 1aeccfd5-ad1f-19c2-7391-5fecd6844244
 ---
 ## Recoursos / Resources
 
-[MIT Global Studies and Languages](https://stuff.mit.edu/~fll/) 
+{{% resource_link "6e98024b-0d01-4823-a19e-dcfcc3b2bf34" "MIT Global Studies and Languages" %}} 
 
-*Destinos* [Online](https://www.learner.org/series/destinos-an-introduction-to-spanish/) (You can watch the episodes online; you just need to register and then select the episode you want to watch.)
+*Destinos* {{% resource_link "c1bade9a-c44a-4b01-8356-70cc84ea92ec" "Online" %}} (You can watch the episodes online; you just need to register and then select the episode you want to watch.)
 
 ## Diccionarios / Dictionaries
 
-[Diccionarios.com](http://www.diccionarios.com/)
+{{% resource_link "8b37b64e-d866-4c34-bc35-953080fa217d" "Diccionarios.com" %}}
 
-\[Diccionario de la Real Academia Española\]([http://lema.rae.es/drae/](http://lema.rae.es/drae/)     
+\[Diccionario de la Real Academia Española\]({{% resource_link "6f74a625-98c5-48b2-b3cd-e84510d7bf55" "http://lema.rae.es/drae/" %}}     
 )
 
-[Diccionario Informático](http://www.sitiosargentina.com.ar/categorias/internet/diccionarios.htm), inglés-español. Diccionario de términos relacionados a la informática
+{{% resource_link "233ec7cd-20fe-488d-b89c-022f075ddea7" "Diccionario Informático" %}}, inglés-español. Diccionario de términos relacionados a la informática
 
-[Ciberléxico](http://www.telefonica.com/en/home/jsp/home.jsp), glosario, inglés-español de términos del internet
+{{% resource_link "0b9b2dd0-86fe-435d-aca7-385614552dae" "Ciberléxico" %}}, glosario, inglés-español de términos del internet
 
-[Tesauro español](http://www.lenguaje.com/herramientas/tesauro/default.htm) (sinónimos)
+{{% resource_link "6b28dc9e-0451-4c71-8fea-578e91d4ab91" "Tesauro español" %}} (sinónimos)
 
 ## Gramática / Grammar Tutorials and Exercises
 
-[Gramática castellana](http://www.elcastellano.org/gramatic.html), las reglas del español actual en la [Página del idioma español](https://pendientedemigracion.ucm.es/info/especulo/ele/r_soca.html)
+{{% resource_link "34941906-eb8e-4a59-888e-b8f17e57ff06" "Gramática castellana" %}}, las reglas del español actual en la {{% resource_link "224e3b38-dafc-4db0-b03f-dae13c8c85d0" "Página del idioma español" %}}
 
-[Cuaderno de Ejercicios en la Red](http://www.trentu.ca/academic/modernlanguages/spanish/masarriba/), ejercicios de vocabulario y gramática
+{{% resource_link "b9b2fafd-b4ee-4875-ab65-51097a7cb4cd" "Cuaderno de Ejercicios en la Red" %}}, ejercicios de vocabulario y gramática
 
-[Ejercicios de gramática](https://aprenderespanol.org/gramatica-ejercicios.html), página de Juan Ramón de Arana. Ejercicios de puntos gramaticales y vocabulario con revisión automática (self-check)
+{{% resource_link "4407f27f-c843-4c82-8d71-8b7e5c9289b1" "Ejercicios de gramática" %}}, página de Juan Ramón de Arana. Ejercicios de puntos gramaticales y vocabulario con revisión automática (self-check)
 
-[Tutoría de español](http://www.studyspanish.com/tutorial.htm), Spanish Grammar Tutorials
+{{% resource_link "bf1505cf-6941-45c7-abef-d4e9ed3dc862" "Tutoría de español" %}}, Spanish Grammar Tutorials
 
 ## Periódicos y Revistas / Newspapers and Magazines
 
-[Spanish Language Newspapers and Magazines](http://libguides.mit.edu/content.php?pid=146063&sid=1247903), MIT Humanities Library
+{{% resource_link "8bd6ab33-034a-4daf-8f2a-a050277be8f8" "Spanish Language Newspapers and Magazines" %}}, MIT Humanities Library
 
-[Prensa Latina](https://www.prensa-latina.cu/), índice de periódicos en español y otros idiomas
+{{% resource_link "f1b10bf0-ab5e-43b9-8b07-3d7a23443dcd" "Prensa Latina" %}}, índice de periódicos en español y otros idiomas
 
-[Tecla Revista](https://www.libreria.educacion.gob.es/libro/tecla-no-4-2024-revista-de-la-consejeria-de-educacion-en-el-reino-unido-e-irlanda_184944/) semanal para estudiantes de español con artículos cortos, listas de vocabulario y ejercicios
+{{% resource_link "9f02ae00-5272-4808-8114-c5891e2ea77c" "Tecla Revista" %}} semanal para estudiantes de español con artículos cortos, listas de vocabulario y ejercicios
 
-[CNN en español](http://cnnenespanol.com/)
+{{% resource_link "616a5076-6d22-4bf2-84cd-9254c7402e7d" "CNN en español" %}}
 
-[BBC -en español](http://news.bbc.co.uk/hi/spanish/news/)
+{{% resource_link "1733f5f2-f916-4732-8f0f-0d1269ee1677" "BBC -en español" %}}
 
 ## Museos / Museums
 
-[Museo del Prado](http://www.museodelprado.es/en)
+{{% resource_link "34c97e61-a926-497b-9dab-e3ddf7c34cb6" "Museo del Prado" %}}
 
-[Museo Nacional Centro de Arte Reina Sofía](http://www.museoreinasofia.es/)
+{{% resource_link "733b93f3-c1e6-4eac-8b61-bfe0c589afe7" "Museo Nacional Centro de Arte Reina Sofía" %}}
 
-[Museo Thyssen Bornemisza](http://www.museothyssen.org/en/thyssen/home)
+{{% resource_link "5abac7fc-8a96-4492-a17c-0797bf0497c8" "Museo Thyssen Bornemisza" %}}
 
 ## Otros Recursos Útiles / Other Useful Resources
 
-[Latin American Network Information Center (LANIC)](http://lanic.utexas.edu/las.html)
+{{% resource_link "605c8435-d137-4464-b4dc-dbfca3e21d9f" "Latin American Network Information Center (LANIC)" %}}
 
-[Mundo Latino](http://www.mundolatino.org/) El WEB Latino
+{{% resource_link "070ef3f4-b8a6-406a-b85d-1653888a37f7" "Mundo Latino" %}} El WEB Latino
 
-[Centro Virtual Cervantes](http://cvc.cervantes.es/portada.htm)
+{{% resource_link "87f6fdd0-db8b-43a9-b2a5-138ae42a92a2" "Centro Virtual Cervantes" %}}
 
-[La Real Academia Española](http://www.rae.es/)
+{{% resource_link "4ac6f7a5-b7f5-481d-9c11-48fdd88b57ea" "La Real Academia Española" %}}
 
-[La página del idioma español](http://www.elcastellano.org/), conexiones a diccionarios, gramáticas, artículos, cursos, literatura, sistemas de búsquedas en español
+{{% resource_link "f05ea404-7da4-4ad0-a577-d2cfd538182a" "La página del idioma español" %}}, conexiones a diccionarios, gramáticas, artículos, cursos, literatura, sistemas de búsquedas en español
