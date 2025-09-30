@@ -14,7 +14,7 @@ VanPatten, Bill, Martha Alford Marks, and Richard V. Teschner. *Destinos: An In
 
 VanPatten, Bill, Martha Alford Marks, and Richard V. Teschner. *Destinos. Workbook / Study Guide II.* New York: McGraw Hill, 2002. (Lecciones 27-52) \*references noted as "W" under Tarea below.
 
-*For OCW online learners*: the video episodes in [Destinos: An Introduction to Spanish](https://www.learner.org/series/destinos-an-introduction-to-spanish/) are available free online from Annenberg Learner.
+*For OCW online learners*: the video episodes in {{% resource_link "c1bade9a-c44a-4b01-8356-70cc84ea92ec" "Destinos: An Introduction to Spanish" %}} are available free online from Annenberg Learner.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -30,7 +30,7 @@ TAREA
 
 Introducción y presentación del curso.
 
-[*Destinos Online*](https://www.learner.org/series/destinos-an-introduction-to-spanish/)
+{{% resource_link "c1bade9a-c44a-4b01-8356-70cc84ea92ec" "*Destinos Online*" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 Episodios 25 y 26
@@ -59,7 +59,7 @@ W 28
 {{< tdclose >}}{{< tdopen >}}
 Predicciones para el futuro.
 {{< tdclose >}}{{< tdopen >}}
-Lee el Poema XX de Pablo Neruda: "[Puedo escribir los versos más tristes esta noche](http://www.elalmanaque.com/poesias/POEMA_%20XX.htm)." Para más información sobre este poeta chileno, visitar la [Página de Neruda](http://es.wikipedia.org/wiki/Pablo_Neruda) por la Universidad de Chile, biografía, obras y fotos.
+Lee el Poema XX de Pablo Neruda: "{{% resource_link "93ac3620-5f5c-4420-891a-5f78cdbc0132" "Puedo escribir los versos más tristes esta noche" %}}." Para más información sobre este poeta chileno, visitar la {{% resource_link "3030902f-695f-4943-8cb3-7a759f93ddce" "Página de Neruda" %}} por la Universidad de Chile, biografía, obras y fotos.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -118,9 +118,9 @@ Examen 1
 
 Episodios 32 y 33 (grupo A: 32/grupo B: 33)
 
-Grupo A: Nota cultural: [Aztecas](http://clio.rediris.es/clionet/fichas/otras_aztecas.htm) (prepararse para informar a la clase sobre los aztecas)
+Grupo A: Nota cultural: {{% resource_link "dfa828cd-b6f6-4049-b30a-cfbac1743ca9" "Aztecas" %}} (prepararse para informar a la clase sobre los aztecas)
 
-Grupo B: Nota cultural: [Mayas](http://clio.rediris.es/clionet/fichas/otras_mayas.htm) (estar preparado/a para informar a la clase sobre los mayas)
+Grupo B: Nota cultural: {{% resource_link "c2df3f9a-2e06-4d1c-9c07-8819ec8bceb1" "Mayas" %}} (estar preparado/a para informar a la clase sobre los mayas)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -133,7 +133,7 @@ W 32 / Anuncio publicitario: mandatos
 {{< tdclose >}}{{< tdopen >}}
 Gramática 32 y cuento
 {{< tdclose >}}{{< tdopen >}}
-Cuento: [Augusto Monterroso](http://cvc.cervantes.es/actcult/monterroso/)
+Cuento: {{% resource_link "275ba354-bfc6-475f-8b46-4be05b9b0a22" "Augusto Monterroso" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 5**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -279,7 +279,7 @@ W 42
 {{< tdclose >}}{{< tdopen >}}
 Gramática 42
 {{< tdclose >}}{{< tdopen >}}
-"[Instantes](https://www.tomzap.com/instante.html)," poema apócrifo atribuido a [Jorge Luis Borges](http://www.britannica.com/EBchecked/topic/74100/Jorge-Luis-Borges)
+"{{% resource_link "9d8b47af-a380-4ed6-a6cb-d6ed1a15aab1" "Instantes" %}}," poema apócrifo atribuido a {{% resource_link "aac04877-df5a-45a3-b308-91c663a4d26d" "Jorge Luis Borges" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 37
 {{< tdclose >}}{{< tdopen >}}
@@ -350,7 +350,7 @@ Gramática 46
 
 Episodio 47
 
-Lectura:"[Historia de los dos que soñaron](https://lenguanorba.files.wordpress.com/2018/06/historia_borges.pdf)," de Jorge Luis Borges. El cuento fantástico hispanoamericano ({{% resource_link "6d48791f-3eb1-28ba-0ed2-df80ea03d6cd" "PDF" %}})
+Lectura:"{{% resource_link "031d8743-e766-4bec-ab81-81fab85eae52" "Historia de los dos que soñaron" %}}," de Jorge Luis Borges. El cuento fantástico hispanoamericano ({{% resource_link "6d48791f-3eb1-28ba-0ed2-df80ea03d6cd" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Semana 13**
